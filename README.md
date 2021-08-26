@@ -7,6 +7,25 @@ I am [**JAYANTH VALMIKI**](https://telegram.dog/strangerbot_1)
 - 🗣️ I Will Speak [**TELUGU, HINDI, ENGLISH**](https://en.wikipedia.org/wiki/Languages_of_India)
 - 👷‍♂️ I am Working for [**WarLock Projects**](https://telegram.dog/warlockprojects)
 
+### Check Our Bots ⚙️
+
+| **Bot** |  **Status**  |
+| :-: | :-: |
+| [**Mr.WarLock**](https://t.me/mrwarlock_bot) | 🟢 |
+| [**WarLock Uploader Bot**](https://t.me/warlockurluploader_bot) | 🟢 |
+| [**WarLock Public Url Bot**](https://t.me/warlockpublicurl_bot) | 🟢 |
+| [**Get Public Url Bot**](https://t.me/getpubliclinkpro_bot) | 🟢 |
+
+### Check Our Groups 🏘️
+
+| **Group** |  **Status**  |
+| :-: | :-: |
+| [**WarLock Cloud**](https://t.me/joinchat/219fOxQSXKwxMDA1) | 🟢 |
+| [**WarLock Torrents**](https://t.me/warlocktorrents) | 🟢 |
+| [**WarLock Public Leech**](https://t.me/warlockpublicleech) | 🟢 |
+
+### Hits ❤️
+
 ![TAPS](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fwarlock-pro&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=TAPS&edge_flat=true)
 
 
